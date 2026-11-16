@@ -1,0 +1,9 @@
+<resources>
+    <string name="watch_face_name">あーくウォッチフェイス</string>
+    <string name="greeting">Hello, world!</string>
+
+    <!-- User configuration: theme -->
+    <string name="theme_label">テーマ</string>
+    <string name="theme_dark">黒背景・白文字</string>
+    <string name="theme_light">白背景・黒文字</string>
+</resources>
